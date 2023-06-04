@@ -5,9 +5,8 @@ __________________________________________
 ### Installation ###
 _________________________________________
 # System Feature #
-| Syntax | Description |
+| Sr.no | Description |
 | ----------- | ----------- |
-| Sr.no | Discription |
 | Paragraph | Text |
 __________________________________________
 ## System Support ##
