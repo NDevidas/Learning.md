@@ -11,6 +11,10 @@ _________________________________________
 | 2 | Text |
 | 3 | Text |
 | 4 | Text |
+
+- [ ] Write the press release
+- [X] Update the website
+- [ ] Contact the media
 __________________________________________
 ## System Support ##
 1. one
