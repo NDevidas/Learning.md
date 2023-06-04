@@ -7,7 +7,10 @@ _________________________________________
 # System Feature #
 | Sr.no | Description |
 | ----------- | ----------- |
-| Paragraph | Text |
+| 1 | Text |
+| 2 | Text |
+| 3 | Text |
+| 4 | Text |
 __________________________________________
 ## System Support ##
 1. one
